@@ -8,7 +8,10 @@
     ],
     "pronounce": "/əˈbaɪd/",
     "mean": "to comply with; to conform",
-    "example": "The two parties agreed to abide by the judge's decision"
+    "example": "The two parties agreed to abide by the judge's decision",
+    "topic": [
+      "General Business"
+    ]
   }, {
     "word": "agreement",
     "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
@@ -18,7 +21,9 @@
     ],
     "pronounce": "/əˈɡriː.mənt/",
     "mean": "a mutuak arrangement, a contract",
-    "example": "According to the agreement, the caterer will also supply the flowers for the event"
+    "example": "According to the agreement, the caterer will also supply the flowers for the event",
+    "topic": [
+      "Office Issues"
   }, {
     "word": "assurance",
     "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
@@ -28,7 +33,9 @@
     ],
     "pronounce": "/əˈʃʊr.əns/",
     "mean": "a guarantee; confidence",
-    "example": "The sales associate gave his assurance that the missing keyboard would be replaced the next day"
+    "example": "The sales associate gave his assurance that the missing keyboard would be replaced the next day",
+    "topic": [
+      "Personnel"
   }, {
     "word": "characteristic",
     "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
@@ -38,7 +45,9 @@
     ],
     "pronounce": "/ˌker.ək.təˈrɪs.tɪk/",
     "mean": "revealing of individual traits",
-    "example": "It is not characteristic of the store to be slow in mailing a refund check"
+    "example": "It is not characteristic of the store to be slow in mailing a refund check",
+    "topic": [
+      "Purchasing"
   },{
     "word": "agreementtest",
     "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
@@ -48,6 +57,8 @@
     ],
     "pronounce": "/əˈɡriː.mənt/",
     "mean": "a mutuak arrangement, a contract",
-    "example": "According to the agreement, the caterer will also supply the flowers for the event"
+    "example": "According to the agreement, the caterer will also supply the flowers for the event",
+    "topic": [
+      "Financing"
   }]
 }
