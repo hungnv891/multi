@@ -1,4 +1,4 @@
-
+﻿
 
 {
   "Vocabulary": [{
@@ -32,8 +32,8 @@
     "mean": "a guarantee; confidence",
     "example": "The sales associate gave his assurance that the missing keyboard would be replaced the next day"
   }, {
-    "word": "characteristic",
-    "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+    "word": "characteristictest",
+    "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
     "sound": "https://khoapham.vn/download/vietnamoi.mp3",
     "type": [
       "Adjective"
@@ -41,5 +41,15 @@
     "pronounce": "/ˌker.ək.təˈrɪs.tɪk/",
     "mean": "revealing of individual traits",
     "example": "It is not characteristic of the store to be slow in mailing a refund check"
+  },{
+    "word": "agreement",
+    "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+    "sound": "https://khoapham.vn/download/vietnamoi.mp3",
+    "type": [
+      "Noun"
+    ],
+    "pronounce": "/əˈɡriː.mənt/",
+    "mean": "a mutuak arrangement, a contract",
+    "example": "According to the agreement, the caterer will also supply the flowers for the event"
   }]
 }
