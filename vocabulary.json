@@ -1,5 +1,6 @@
 {
   "Vocabulary": [{
+    "num": "001",
     "word": "abide by",
     "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
     "sound": "http://www.serebii.net/pokemongo/pokemon/001.png",
@@ -12,6 +13,7 @@
     "topic": [
       "General Business"]
   }, {
+    "num": "002",
     "word": "agreement",
     "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
     "sound": "https://khoapham.vn/download/vietnamoi.mp3",
@@ -24,6 +26,7 @@
     "topic": [
       "Office Issues"]
   }, {
+    "num": "003",
     "word": "assurance",
     "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
     "sound": "https://khoapham.vn/download/vietnamoi.mp3",
@@ -36,6 +39,7 @@
     "topic": [
       "Personnel"]
   }, {
+    "num": "004",
     "word": "characteristic",
     "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
     "sound": "https://khoapham.vn/download/vietnamoi.mp3",
@@ -48,6 +52,7 @@
     "topic": [
       "Purchasing"]
   },{
+    "num": "005",
     "word": "agreementtest",
     "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
     "sound": "https://khoapham.vn/download/vietnamoi.mp3",
