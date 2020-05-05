@@ -1,0 +1,20 @@
+Privacy Policy & User Agreement
+This document applies to our Apps - EnglishTestFREE. We've tried to keep text simple, so we hope you will take a time to read it carefully. Only use this app when understanding our Privacy Policy also agree to all of the terms of this agreement.
+
+Personal information
+We made apps with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.
+
+Usage analytics
+We would like to make out product more useful for you, so we added Firebase Analytics to the  some apps. It collects user behavior information in an anonymous form and transmits it to Google's Firebase servers. That means only usage data is collected, no personally identifiable information. Then we can use Firebase Analytics to create reports of how our App being used. For example, a percentage of users that use certain features, or most popular Android versions and screen sizes among our users. We use these reports to understand how to spend our development resources more efficiently and make our App better. Note that we might share these reports with third parties. To learn more check out Google's privacy policy.
+
+Advertising
+We use ads to keep our apps free for you. All ads in our App served by Google's AdMob network. AdMob may use and collect anonymous data about your interests to customize advertising in our App and in other sites and apps. To do that AdMob using unique user-resettable Advertising ID, provided by Google Play services. Interest and location data may be linked to your device, but is not linked to your identity. To learn more about AdMob privacy policies and opt-out choices check out Google's privacy policy.
+
+Responsibilities
+We are not responsible for the accuracy of the content provided in the application. We are also not responsible for the effects of the use of in-app knowledge on you and your life. We are also not responsible for the data loss you add to the application if that happens.
+
+Changes
+We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice. 
+
+If you have any questions or concerns about our privacy policies, please contact us by email:  englishtestfree@gmail.com
+
